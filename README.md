@@ -1,12 +1,12 @@
 # Проект. Экспресс-угадывание числа путем бинарного поиска
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Edgars97/Projects/tree/https/github.com/Edgars97/Projects.README.md#Описание-проекта)  
-[2. Цель проекта](https://github.com/Edgars97/Projects/tree/https/github.com/Edgars97/Projects.README.md#Цель-проекта)  
-[3. Краткая информация о данных](https://github.com/Edgars97/Projects/tree/https/github.com/Edgars97/Projects.README.md#Краткая-информация-о-данных)  
-[4. Задачи-этапы проекта](https://github.com/Edgars97/Projects/tree/https/github.com/Edgars97/Projects.README.md#Задачи-этапы-проекта)  
-[5. Результаты](https://github.com/Edgars97/Projects/tree/https/github.com/Edgars97/Projects.README.md#Результаты)    
-[6. Выводы](https://github.com/Edgars97/Projects/tree/https/github.com/Edgars97/Projects.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Edgars97/Projects/tree/main/Project%201.README.md#Описание-проекта)  
+[2. Цель проекта](https://github.com/Edgars97/Projects/tree/main/Project%201.README.md#Цель-проекта)  
+[3. Краткая информация о данных](https://github.com/Edgars97/Projects/tree/main/Project%201.README.md#Краткая-информация-о-данных)  
+[4. Задачи-этапы проекта](https://github.com/Edgars97/Projects/tree/main/Project%201.README.md#Задачи-этапы-проекта)  
+[5. Результаты](https://github.com/Edgars97/Projects/tree/main/Project%201.README.md#Результаты)    
+[6. Выводы](https://github.com/Edgars97/Projects/tree/main/Project%201.README.md#Выводы) 
 
 ### Описание проекта    
 Система загадывает произвольное целое число (integer), которое нужно угадать пользователю за фиксированное число попыток.
