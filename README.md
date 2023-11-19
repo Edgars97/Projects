@@ -1,12 +1,12 @@
 # Проект. Экспресс-угадывание числа путем бинарного поиска
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Edgars97/Projects/blob/main/README.md#Описание-проекта)  
-[2. Цель проекта](https://github.com/Edgars97/Projects/blob/main/README.md#Цель-проекта)  
-[3. Краткая информация о данных](https://github.com/Edgars97/Projects/blob/main/README.md#Краткая-информация-о-данных)  
-[4. Задачи-этапы проекта](https://github.com/Edgars97/Projects/blob/main/README.md#Задачи-этапы-проекта)  
-[5. Результаты](https://github.com/Edgars97/Projects/blob/main/README.md#Результаты)    
-[6. Выводы](https://github.com/Edgars97/Projects/blob/main/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Edgars97/Projects/tree/main/Project%201#Описание-проекта)  
+[2. Цель проекта](https://github.com/Edgars97/Projects/tree/main/Project%201#Цель-проекта)  
+[3. Краткая информация о данных](https://github.com/Edgars97/Projects/tree/main/Project%201#Краткая-информация-о-данных)  
+[4. Задачи-этапы проекта](https://github.com/Edgars97/Projects/tree/main/Project%201#Задачи-этапы-проекта)  
+[5. Результаты](https://github.com/Edgars97/Projects/tree/main/Project%201#Результаты)    
+[6. Выводы](https://github.com/Edgars97/Projects/tree/main/Project%201#Выводы) 
 
 ### Описание проекта    
 Система загадывает произвольное целое число (integer), которое нужно угадать пользователю за фиксированное число попыток.
@@ -32,7 +32,7 @@
 ### Краткая информация о данных
 Целочисленные переменные генерируются произвольно. Фиксируется random.seed(20) для работы программы на угадывание числа, что повысит воспроизводимость написанного кода.
   
-:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects/blob/main/README.md#Оглавление)
 
 
 ### Задачи-этапы проекта  
@@ -40,7 +40,7 @@
 2. Сравнить эффективность работы разработанного алгоритма с имеющимися подходами по таргетной задаче.
 3. Зафиксировать версии библиотек, необходимых для реализации оформленного кода в Python.
 
-:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects/blob/main/README.md#Оглавление)
 
 
 ### Результаты
@@ -50,14 +50,14 @@
 1. Алгоритм_1 ("Случайное угадывание"): 99 попыток
 2. Алгоритм_2 ("Угадывание с коррекцией"): 33 попытки
 3. Алгоритм_3 ("Экспресс-угадывание числа путем бинарного поиска"): 5 попыток.
-:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects/blob/main/README.md#Оглавление)
 
 
 ### Выводы
 1. Разработан алгоритм для обнаружения заданного компьтером целого числа с применением бинарного поиска. Это резко сокращает время работы алгоритма для выполнения конкретной задачи.
 2. Наиболее эффективным является подход бинарного поиска в выявлении rand-числа, что показали результаты метрики алгоритмов с использованием функции score_game().
 
-:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Edgars97/Projects/blob/main/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
