@@ -1,7 +1,7 @@
 # Проект. Экспресс-угадывание числа путем бинарного поиска
 
 ## Оглавление  
-[1. Описание проекта](#Описание-проекта)  
+[1. Описание проекта](https://github.com/Edgars97/Projects/blob/main/README.md#Описание-проекта)  
 [2. Цель проекта](https://github.com/Edgars97/Projects/blob/main/README.md#Цель-проекта)  
 [3. Краткая информация о данных](https://github.com/Edgars97/Projects/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Задачи-этапы проекта](https://github.com/Edgars97/Projects/blob/main/README.md#Задачи-этапы-проекта)  
